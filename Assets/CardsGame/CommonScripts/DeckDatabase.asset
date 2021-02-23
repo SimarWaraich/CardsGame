@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f183529edb2e462da2e1ae7594ab1e1, type: 3}
+  m_Name: DeckDatabase
+  m_EditorClassIdentifier: 
+  cardDecks:
+  - Name: NormalDeck
+    BackCover: {fileID: 21300108, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    Cards:
+    - Name: 2-Club
+      Value: 2
+      Suit: 0
+      CardImage: {fileID: 21300002, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 3-Club
+      Value: 3
+      Suit: 0
+      CardImage: {fileID: 21300004, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 4-Club
+      Value: 4
+      Suit: 0
+      CardImage: {fileID: 21300006, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 5-Club
+      Value: 5
+      Suit: 0
+      CardImage: {fileID: 21300008, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 6-Club
+      Value: 6
+      Suit: 0
+      CardImage: {fileID: 21300010, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 7-Club
+      Value: 7
+      Suit: 0
+      CardImage: {fileID: 21300012, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 8-Club
+      Value: 8
+      Suit: 0
+      CardImage: {fileID: 21300014, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 9-Club
+      Value: 9
+      Suit: 0
+      CardImage: {fileID: 21300016, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 10-Club
+      Value: 10
+      Suit: 0
+      CardImage: {fileID: 21300018, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: J-Club
+      Value: 11
+      Suit: 0
+      CardImage: {fileID: 21300020, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: Q-Club
+      Value: 12
+      Suit: 0
+      CardImage: {fileID: 21300022, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: K-Club
+      Value: 13
+      Suit: 0
+      CardImage: {fileID: 21300024, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: A-Club
+      Value: 14
+      Suit: 0
+      CardImage: {fileID: 21300000, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 2
+      Suit: 1
+      CardImage: {fileID: 21300080, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 3
+      Suit: 1
+      CardImage: {fileID: 21300082, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 4
+      Suit: 1
+      CardImage: {fileID: 21300084, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 5
+      Suit: 1
+      CardImage: {fileID: 21300086, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 6
+      Suit: 1
+      CardImage: {fileID: 21300088, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 7
+      Suit: 1
+      CardImage: {fileID: 21300090, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 8
+      Suit: 1
+      CardImage: {fileID: 21300092, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 9
+      Suit: 1
+      CardImage: {fileID: 21300094, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 10
+      Suit: 1
+      CardImage: {fileID: 21300096, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 11
+      Suit: 1
+      CardImage: {fileID: 21300098, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 12
+      Suit: 1
+      CardImage: {fileID: 21300100, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 13
+      Suit: 1
+      CardImage: {fileID: 21300102, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: A-Spade
+      Value: 14
+      Suit: 1
+      CardImage: {fileID: 21300078, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 2
+      Suit: 2
+      CardImage: {fileID: 21300054, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 3
+      Suit: 2
+      CardImage: {fileID: 21300056, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 4
+      Suit: 2
+      CardImage: {fileID: 21300058, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 5
+      Suit: 2
+      CardImage: {fileID: 21300060, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 6
+      Suit: 2
+      CardImage: {fileID: 21300062, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 7
+      Suit: 2
+      CardImage: {fileID: 21300064, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 8
+      Suit: 2
+      CardImage: {fileID: 21300066, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 9
+      Suit: 2
+      CardImage: {fileID: 21300068, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 10
+      Suit: 2
+      CardImage: {fileID: 21300070, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 11
+      Suit: 2
+      CardImage: {fileID: 21300072, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 12
+      Suit: 2
+      CardImage: {fileID: 21300074, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 13
+      Suit: 2
+      CardImage: {fileID: 21300076, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 14
+      Suit: 2
+      CardImage: {fileID: 21300052, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 2
+      Suit: 3
+      CardImage: {fileID: 21300028, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 3
+      Suit: 3
+      CardImage: {fileID: 21300030, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 4
+      Suit: 3
+      CardImage: {fileID: 21300032, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 5
+      Suit: 3
+      CardImage: {fileID: 21300034, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 6
+      Suit: 3
+      CardImage: {fileID: 21300036, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 7
+      Suit: 3
+      CardImage: {fileID: 21300038, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 8
+      Suit: 3
+      CardImage: {fileID: 21300040, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 9
+      Suit: 3
+      CardImage: {fileID: 21300042, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 10
+      Suit: 3
+      CardImage: {fileID: 21300044, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 11
+      Suit: 3
+      CardImage: {fileID: 21300046, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 12
+      Suit: 3
+      CardImage: {fileID: 21300048, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 13
+      Suit: 3
+      CardImage: {fileID: 21300050, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
+    - Name: 
+      Value: 14
+      Suit: 3
+      CardImage: {fileID: 21300026, guid: cbdb4a40f97f243739466a2c6443498b, type: 3}
